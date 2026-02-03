@@ -1,1 +1,40 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AiqvZ3eo)
+
+
+----- Book Details -----
+Title : The Great Gatsby
+Author : F. Scott Fitzgerald
+Price : $15.99
+ISBN : 9780743273565
+Stock : 5
+
+
+----- Book Details -----
+Title : Introduction to Algorithms
+Author : Thomas H. Cormen
+Price : $89.99
+ISBN : 9780262033848
+Stock : 2
+
+
+Discount applied: 10.0%
+New price: $14.391
+
+
+Discount applied: 15.0%
+New price: $76.4915
+
+
+3 new copies added.
+Updated stock: 8
+
+
+5 new copies added.
+Updated stock: 7
+
+
+Is "The Great Gatsby" available? true
+Is "Introduction to Algorithms" available? true
+
+
+=== Code Execution Successful ===
